@@ -1,0 +1,2 @@
+# stockanalyses-data
+datastore
